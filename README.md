@@ -1,6 +1,6 @@
 # Hi there, I'm Jeba Reni Filix 👋
 
-🎨 UI/UX Designer | ✨ Web Design Developer
+🎨 UI/UX Designer | ✨ Web Developer
 
 Welcome to my GitHub profile! I'm passionate about crafting beautiful and user-friendly web interfaces. With a keen eye for design and a love for coding, I'm on a mission to make the web a more delightful place.
 
